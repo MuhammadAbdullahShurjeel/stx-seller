@@ -4,7 +4,7 @@ ENHANCED SELLING SCRIPT WHERE YOU CAN SELL ITEMS USING INVENTORY SYSTEM BOTH V1 
 
 # Preview
 
-Youtube : Coming Soon
+Youtube : [Here](https://youtu.be/ibPgG2rEfyM)
 
 # Description
 
