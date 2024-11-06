@@ -2,6 +2,9 @@
 
 ENHANCED SELLING SCRIPT WHERE YOU CAN SELL ITEMS USING INVENTORY SYSTEM BOTH V1 & V2.
 
+![Fzzyヅ_make_me_a_image_using_red_dead_redemption_theme_wh_7966e8f8-2515-4e94-b5d4-51792cfcd1dd](https://github.com/user-attachments/assets/1ebd9ad3-173e-4cab-8b5b-779a97ed1d0f)
+
+
 # Preview
 
 Youtube : [Here](https://youtu.be/ibPgG2rEfyM)
