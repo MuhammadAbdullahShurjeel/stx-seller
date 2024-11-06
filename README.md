@@ -13,6 +13,10 @@ Youtube : [Here](https://youtu.be/ibPgG2rEfyM)
 
 This script allows you to create selling area where you can either use target or prompt system. You can check config file to see how shops are created. It is item whitelisted shop means only items that are given in the table of specific shops can be sold there in that specific shop. Moreover it was made for a server and i decided to release this publically so everyone can use it.
 
+# HUGE REQUEST....
+
+Can i atleast get 25-30 Stars on this post ???.... :)
+
 # Dependencies
 
 - RSGCORE
