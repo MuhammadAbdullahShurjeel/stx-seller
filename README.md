@@ -15,7 +15,7 @@ This script allows you to create selling area where you can either use target or
 
 # HUGE REQUEST....
 
-Can i atleast get 25-30 Stars on this post ???.... :)
+Can i atleast get 10-25 Stars on this post ???.... :)
 
 # Dependencies
 
