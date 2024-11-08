@@ -7,6 +7,17 @@ function isEmpty(table)
     return true
 end
 
+--- Added Events System if you want to open the menu using an event 
+for i=1, #Config.Locations do
+
+    if Config.Locations[i].Prompt.eventnameEnable then
+            RegisterNetEvent(Config.Locations[i].Prompt.eventname, function()
+                 TriggerEvent('stx-seller:client:openmenu', Config.Locations[i].Prompt.name, i)
+            end)
+    end
+end
+---------
+
 CreateThread(function()
 
     if Config.Interaction == "prompt" then
