@@ -20,6 +20,8 @@ Config.Locations = {
         Prompt = {
             name = 'unique_butcher',
             keybind = 0xF3830D8E, -- This keybind only works for prompt system
+            eventnameEnable = false,
+            eventname = nil, -- Must Be Unique. Write it in double quotations "event...."
             msg = 'Open Butcher Seller',
             promptvec = vector3(-5527.9995, -3048.5862, -2.3513)
         },
@@ -32,6 +34,8 @@ Config.Locations = {
         Prompt = {
             name = 'unique_butcher_1',
             keybind = 0xF3830D8E,
+            eventnameEnable = false,
+            eventname = nil, -- Must Be Unique. Write it in double quotations "event...."
             msg = 'Open Trapper Seller',
             promptvec = vector3(-333.90, 773.21, 116.26)
         },
